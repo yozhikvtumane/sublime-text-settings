@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+	"draw_white_space": "all",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"word_wrap": "true",
+	"font_options": ["no_italic"]
+}
