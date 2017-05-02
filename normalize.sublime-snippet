@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+@import url(https://necolas.github.io/normalize.css/6.0.0/normalize.css);
+
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	padding: 0;
+	margin: 0;
+	font-family: ${1}, ${2};
+	font-size: 100%;
+	overflow: hidden;
+}
+
+img {
+	max-width: 100%;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>normalize</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.css</scope>
+</snippet>
